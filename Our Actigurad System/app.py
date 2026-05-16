@@ -25,7 +25,7 @@ EMAIL_SENDER = "rasel4897981@gmail.com"
 EMAIL_PASSWORD = "kkwsehrfcejnoahg"  # App password
 EMAIL_RECEIVER = "bentimo498@gmail.com"
 
-# Google Maps Static API Key
+# API Key
 API_KEY = "AIzaSyCF5g9mbR-q0v2T90xWAr4t9JWfPLP_aGo"  # Replace with your key
 
 def send_email_notification(video_filename, latitude, longitude):
