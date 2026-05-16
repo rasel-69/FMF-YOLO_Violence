@@ -26,7 +26,7 @@ EMAIL_PASSWORD = "kkwsehrfcejnoahg"  # App password
 EMAIL_RECEIVER = "bentimo498@gmail.com"
 
 # Google Maps Static API Key
-GOOGLE_MAPS_API_KEY = "AIzaSyCF5g9mbR-q0v2T90xWAr4t9JWfPLP_aGo"  # Replace with your key
+API_KEY = "AIzaSyCF5g9mbR-q0v2T90xWAr4t9JWfPLP_aGo"  # Replace with your key
 
 def send_email_notification(video_filename, latitude, longitude):
     subject = "🚨 Violence Detected in Your Area"
